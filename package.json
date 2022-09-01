@@ -1,0 +1,25 @@
+{
+  "name": "ui-and-api-testing-framework-with-cypress",
+  "version": "1.0.0",
+  "description": "UI and API Testing Framework using Cypress, TypeScript, Cucumber, Supertest, Cypress Dashboard, Slack Reporting, Github Actions",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/silvialazin/UI-and-API-Testing-Framework-with-Cypress.git"
+  },
+  "keywords": [
+    "Cypress"
+  ],
+  "author": "Silvia Lazin & Patrick Daneshyar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/silvialazin/UI-and-API-Testing-Framework-with-Cypress/issues"
+  },
+  "homepage": "https://github.com/silvialazin/UI-and-API-Testing-Framework-with-Cypress#readme",
+  "dependencies": {
+    "cypress": "^10.7.0"
+  }
+}
