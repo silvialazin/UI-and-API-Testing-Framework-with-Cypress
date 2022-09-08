@@ -18,5 +18,8 @@
   "homepage": "https://github.com/silvialazin/UI-and-API-Testing-Framework-with-Cypress#readme",
   "devDependencies": {
     "cypress": "^10.7.0"
+  },
+  "dependencies": {
+    "typescript": "^4.8.2"
   }
 }
